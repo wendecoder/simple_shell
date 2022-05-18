@@ -49,5 +49,5 @@ _strcmpdir : compares strings to find dir. find_command : finds command to execu
 README.md: this.
 
 # Contact Info:
-Git: [Wendwosen Dufera](https://github.com/wendecoder), [Haile G Gebremedhin]()
-Twitter: [@wendwosen](https://t.co/BWELExzSiJ),[@haileg](). 
+Git: [Wendwosen Dufera](https://github.com/wendecoder), [Haile G Gebremedhin](https://github.com/HaileGG)
+Twitter: [@wendwosen](https://t.co/BWELExzSiJ),[@HGebresilassie](). 
